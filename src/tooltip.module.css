@@ -1,0 +1,36 @@
+.toolTipWrapper {
+ 
+  position: absolute;
+  top: 45%;
+  left: 50%;
+}
+
+.tooltip {
+    width: 100px;
+    height: auto;
+    background-color: black;
+  color: white;
+  position: relative;
+  border-radius: 10px 0 10px 0;
+}
+
+.top {
+  top: -100px;
+  left: 15px;
+}
+
+.left{
+    left: -125px;
+    top: -40px;
+}
+
+.right{
+    right: -125px;
+    top: -40px;
+}
+
+.bottom{
+    left: 15px;
+
+    top: 20px;
+}
